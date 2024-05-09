@@ -21,4 +21,5 @@ employee3 = Employee('Person3', 25, 'Cashier', 'Address3')
 
 
 print(employee1.description())
-
+print(employee2.description())
+print(employee3.description())
