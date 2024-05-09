@@ -23,11 +23,3 @@ employee3 = Employee('Person3', 25, 'Cashier', 'Address3')
 print(employee1.description())
 print(employee2.description())
 print(employee3.description())
-
-print(employee1.name)
-print(employee2.name)
-print(employee3.name)
-
-employee1 = ['Person1', 34, 'Manager', 'Address1']
-employee2 = ['Person2', 30, 'Assistant Manager', 'Address2']
-employee3 = ['Person3', 'Cashier', 'Address3']
